@@ -1,0 +1,22 @@
+LLX=4
+LLY=3
+IsPeriodicX=1
+IsPeriodicY=1
+
+Dof=SpinHalf
+Geometry=Honeycomb
+Model=Kitaev
+tolerance=1e-7
+
+Kxx=1.00
+Kyy=1.00
+Kzz=4.00
+
+Bxx=0.04
+Byy=0.04
+Bzz=0.04
+
+# Number of states to keep
+Nstates=1
+
+
